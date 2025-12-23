@@ -24,7 +24,7 @@ Key highlights:
 
 ## Demo Video
 
-🎥 Watch the demo here:  [**Motia Crews Demo**]()
+🎥 Watch the demo here:  [**Motia Crews Demo**](https://www.youtube.com/watch?v=cyGRdzJAuxc)
 
 [![Watch the demo](https://img.youtube.com/vi/cyGRdzJAuxc/0.jpg)](https://www.youtube.com/watch?v=cyGRdzJAuxc)
 
